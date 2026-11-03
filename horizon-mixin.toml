@@ -4,9 +4,8 @@ schema = 1
 id = "horizon-blueprint"
 version = "0.1.0"
 
-[compatibility]
-horizon_revision = "31f83499b6c2cff7a8e7bf45f8173a7a95c2767c"
-mixins_revision = "ddd9700b21997c95d95ac6ee5ecafe3830cf622a"
+horizon = "31f83499b6c2cff7a8e7bf45f8173a7a95c2767c"
+mixins = "ddd9700b21997c95d95ac6ee5ecafe3830cf622a"
 
 [api]
 path = "."
